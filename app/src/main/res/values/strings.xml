@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Contact 180030020</string>
+
+    <string name="ganti_foto">Ganti Foto</string>
+    <string name="first_name">Nama Depan</string>
+    <string name="last_name">Nama Belakang</string>
+    <string name="number">Nomor Telepon</string>
+    <string name="email">Alamat E-mail</string>
+    <string name="save">Simpan</string>
+    <string name="add">Tambah Kontak</string>
+    <string name="edit">Edit Kontak</string>
+    <string name="delete">Hapus Kontak</string>
+    <string name="gender_male">Laki-laki</string>
+    <string name="gender_female">Perempuan</string>
+
+
+</resources>
